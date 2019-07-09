@@ -1,4 +1,9 @@
-h1, h2, p, footer, details, nav, ul {
+h1, h2, footer, details, ul, nav {
   font-family: "Ariel", sans-serif;
   color: #575757;
+}
+p {
+  line-height: 150%;
+  font-family: "Ariel", sans-serif;
+  color: #ab3242;
 }
