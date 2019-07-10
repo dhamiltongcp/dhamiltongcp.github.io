@@ -1,0 +1,60 @@
+h1{
+  font-family: "Ariel", sans-serif;
+  color: #FFFFFF;
+}
+
+h2{
+  font-family: "Ariel", sans-serif;
+  color: #575757;
+  background-color: #13c6e6;
+  padding: 1%;
+  margin: 1%;
+}
+
+details, ul{
+  font-family: "Ariel", sans-serif;
+  color: #575757;
+}
+
+footer{
+  font-family: "Ariel", sans-serif;
+  color: #575757;
+  clear: both;
+  background-color: #13c6e6;
+  padding-left: 1%;
+}
+
+p{
+  line-height: 150%;
+  font-family: "Ariel", sans-serif;
+  color: #575757;
+}
+
+body{
+  background: #B3B3B3;
+  font-size: 150%;
+  margin: 2%
+}
+
+header{
+  background: #13c6e6;
+  text-align: center;
+  padding: 15px;
+}
+
+nav{
+  font-family: Ariel, sans-serif;
+  color: #575757;
+  font-size: 150%;
+}
+
+section{
+  display: inline-block;
+  width: 30%;
+  float: left;
+  margin: 1%
+}
+
+img{
+  width: 80px;
+}
